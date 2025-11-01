@@ -74,6 +74,18 @@
                             </div>
                           </td>
                         </tr>
+                        <tr class="align-middle">
+                          <td>5</td>
+                          <td>Mike</td>
+                          <td>Garcia</td>
+                          <td>miguel.sandoval0246@alumnos.udg.mx</td>
+                          <td>
+                            <div class="row">
+                                <button class="btn btn-success btn-small col-6">Editar</span>
+                                <button class="btn btn-danger btn-small col-6">Eliminar</span>
+                            </div>
+                          </td>
+                        </tr>
                       </tbody>
                     </table>
                   </div>
