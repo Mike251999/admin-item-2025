@@ -28,6 +28,19 @@
                       <tbody>
                         <tr class="align-middle">
                           <td>1</td>
+                          <td>Melissa Kimberly</td>
+                          <td>Camacho Aguayo</td>
+                          <td>kimberly09@email.com</td>
+                          <td>
+                            <div class="row">
+                                <button class="btn btn-success btn-small col-6">Editar</span>
+                                <button class="btn btn-danger btn-small col-6">Eliminar</span>
+                            </div>
+                        </td>
+                        </tr>
+                      <tbody>
+                        <tr class="align-middle">
+                          <td>2</td>
                           <td>Juan</td>
                           <td>Uribe</td>
                           <td>juan@email.com</td>
@@ -39,7 +52,7 @@
                         </td>
                         </tr>
                         <tr class="align-middle">
-                          <td>2</td>
+                          <td>3</td>
                           <td>Jonathan</td>
                           <td>Perez</td>
                           <td>jonathan@email.com</td>
@@ -51,7 +64,7 @@
                           </td>
                         </tr>
                         <tr class="align-middle">
-                          <td>3</td>
+                          <td>4</td>
                           <td>Rosa</td>
                           <td>Flores</td>
                           <td>rosa@email.com</td>
@@ -63,7 +76,7 @@
                           </td>
                         </tr>
                         <tr class="align-middle">
-                          <td>4</td>
+                          <td>5</td>
                           <td>Claudia</td>
                           <td>Torres</td>
                           <td>claudia@email.com</td>
@@ -75,7 +88,7 @@
                           </td>
                         </tr>
                         <tr class="align-middle">
-                          <td>5</td>
+                          <td>6</td>
                           <td>Mike</td>
                           <td>Garcia</td>
                           <td>miguel.sandoval0246@alumnos.udg.mx</td>
